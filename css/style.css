@@ -12,3 +12,29 @@ ul {
 a {
     text-decoration: none;
 }
+ul li {
+    display: inline;
+}
+
+.header{
+    float: right;
+    margin: 1rem;
+    text-align: center;
+}
+
+.link {
+    
+    padding: 1rem 1.5rem;
+    font-size: 1.5rem;
+}
+
+#menu {
+    margin-top: 0.5rem;
+}
+
+.button{
+    padding: .7rem;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin-left: .3rem;
+}
